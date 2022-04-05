@@ -1,3 +1,8 @@
+
+# Login/Registeration Form
+Basic inital login form using React.js, this project was built using React hooks for state management; useState, useReduce, useContext(for context api) and useHistory. As well as the practice of reusable components and custom hooks. The login form was authenticated using firebase authentication that was built in a custom hook to be used for login and signing up given different condition for each case.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
