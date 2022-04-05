@@ -1,0 +1,9 @@
+.title {
+    padding: 20px 0;
+    letter-spacing: 2px;
+    border-bottom: 1px solid silver;
+  }
+.forms {
+    box-sizing: border-box;
+    padding: 0 40px;
+  }
